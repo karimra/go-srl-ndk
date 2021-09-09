@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sdkmgr-proto',
-    version="0.1",
+    version="0.1",  
     description="Protobuf libraries for srlinux sdkmgr",
     author="",
     packages=['sdk_protos'],
